@@ -1,5 +1,13 @@
 /* stylesheet */
 
+body {
+  background: #cbcdce;
+}
+
+.mdl-cell {
+  margin: 60px 0 60px 0;
+}
+
 .portfolio-header {
     position: relative;
     background-image: url('../images/grey_wash_wall.png'); 
@@ -174,9 +182,12 @@
     max-width: 550px;
     margin: auto;
   }
-  
-  footer {
-    background: #555555;
-    background-size: cover;
+
+  .mdl-mini-footer {
+    background: #cbcdce;
+    height: 20px;
   }
-    
+
+  .mdl-logo, .mdl-mini-footer__link-list {
+    color: #777777;
+  }
