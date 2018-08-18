@@ -1,0 +1,8 @@
+.DS_store
+oldPfiles
+.travis
+node_modules
+.sass-cache
+bower_components
+*.json
+gulpfile.js
