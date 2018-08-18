@@ -1,9 +1,0 @@
-.DS_store
-oldPfiles.zip
-.travis.yml
-node_modules
-.sass-cache
-bower_components
-*.json
-gulpfile.js
-.gitignore
