@@ -1,1 +1,9 @@
 /* custom stuff will go here */
+
+#profile-pic {
+    width: auto;
+    height: 300px;
+    margin-bottom: 60px;
+    margin-top: -30px;
+    filter: grayscale(50%);
+}
