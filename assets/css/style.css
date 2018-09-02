@@ -1,4 +1,4 @@
-/* custom stuff will go here */
+/* custom CSS stuff will go here */
 
 #profile-pic {
     width: auto;
@@ -6,4 +6,12 @@
     margin-bottom: 60px;
     margin-top: -30px;
     filter: grayscale(50%);
+}
+
+/* #form-message-box {
+    clear: both;
+} */
+
+#form-submit-btn {
+    width: 100%;
 }
